@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/E-commercal.git/static/css/main.1cfb68c8.css",
-    "main.js": "/E-commercal.git/static/js/main.815ee4bd.js",
-    "index.html": "/E-commercal.git/index.html",
-    "main.1cfb68c8.css.map": "/E-commercal.git/static/css/main.1cfb68c8.css.map",
-    "main.815ee4bd.js.map": "/E-commercal.git/static/js/main.815ee4bd.js.map"
+    "main.css": "/E-commercal/static/css/main.1cfb68c8.css",
+    "main.js": "/E-commercal/static/js/main.815ee4bd.js",
+    "index.html": "/E-commercal/index.html",
+    "main.1cfb68c8.css.map": "/E-commercal/static/css/main.1cfb68c8.css.map",
+    "main.815ee4bd.js.map": "/E-commercal/static/js/main.815ee4bd.js.map"
   },
   "entrypoints": [
     "static/css/main.1cfb68c8.css",
