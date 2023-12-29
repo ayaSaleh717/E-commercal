@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ayaSaleh717/E-commercal/static/css/main.1cfb68c8.css",
-    "main.js": "/ayaSaleh717/E-commercal/static/js/main.d98f53b7.js",
-    "index.html": "/ayaSaleh717/E-commercal/index.html",
-    "main.1cfb68c8.css.map": "/ayaSaleh717/E-commercal/static/css/main.1cfb68c8.css.map",
-    "main.d98f53b7.js.map": "/ayaSaleh717/E-commercal/static/js/main.d98f53b7.js.map"
+    "main.css": "/E-commercal.git/static/css/main.1cfb68c8.css",
+    "main.js": "/E-commercal.git/static/js/main.d98f53b7.js",
+    "index.html": "/E-commercal.git/index.html",
+    "main.1cfb68c8.css.map": "/E-commercal.git/static/css/main.1cfb68c8.css.map",
+    "main.d98f53b7.js.map": "/E-commercal.git/static/js/main.d98f53b7.js.map"
   },
   "entrypoints": [
     "static/css/main.1cfb68c8.css",
